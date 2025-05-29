@@ -5,8 +5,8 @@ declare module 'axios' {
 }
 
 export const Service = axios.create({
-  timeout: 3000, //延迟时间
-  baseURL: "http://localhost:9000",
+  timeout: 6000, //延迟时间
+  baseURL: "http://localhost:12008",
   // method: "POST",
   headers: {
     "content-Type": "application/x-www-form-urlencoded",
