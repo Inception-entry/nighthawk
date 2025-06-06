@@ -1,7 +1,7 @@
 /*
- * @Author: SKSSSX 1270256946@qq.com
+ * @Author: Inception-entry batman_gotham@126.com
  * @Date: 2023-02-27 21:59:10
- * @LastEditors: SKSSSX 1270256946@qq.com
+ * @LastEditors: Inception-entry batman_gotham@126.com
  * @LastEditTime: 2023-03-05 02:10:24
  * @FilePath: /demo/react-mst/src/models/RootStore.ts
  * @Description: 

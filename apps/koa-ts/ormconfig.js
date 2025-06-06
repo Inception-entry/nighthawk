@@ -1,7 +1,7 @@
 /*
- * @Author: SKSSSX 1270256946@qq.com
+ * @Author: Inception-entry batman_gotham@126.com
  * @Date: 2023-02-25 12:37:22
- * @LastEditors: SKSSSX 1270256946@qq.com
+ * @LastEditors: Inception-entry batman_gotham@126.com
  * @LastEditTime: 2023-02-26 23:22:07
  * @FilePath: /demo/koa-ts/ormconfig.js
  * @Description: 

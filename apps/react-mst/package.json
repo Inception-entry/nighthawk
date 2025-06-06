@@ -12,9 +12,13 @@
     "shortid": "^2.2.16"
   },
   "scripts": {
-    "dev": "node scripts/start.js",
+    "dev": "npx kill-port 3000 && node scripts/start.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js"
+  },
+  "engines": {
+    "node": "22.11.0",
+    "npm": "10.9.0"
   },
   "eslintConfig": {
     "extends": [

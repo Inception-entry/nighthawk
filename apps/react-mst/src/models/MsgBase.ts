@@ -1,7 +1,7 @@
 /*
- * @Author: SKSSSX 1270256946@qq.com
+ * @Author: Inception-entry batman_gotham@126.com
  * @Date: 2023-02-27 20:13:30
- * @LastEditors: SKSSSX 1270256946@qq.com
+ * @LastEditors: Inception-entry batman_gotham@126.com
  * @LastEditTime: 2023-02-27 20:51:27
  * @FilePath: /demo/react-mst/src/models/MsgBase.ts
  * @Description: 消息
