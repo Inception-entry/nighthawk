@@ -12,6 +12,18 @@ $ yarn dev
 ## node版本
 16.16.0
 
+## 🚀 技术栈
+
+[![koa](https://img.shields.io/badge/koa-2.14.1-brightgreen.svg)]() [![koa-bodyparser](https://img.shields.io/badge/koa--bodyparser-4.3.0-brightgreen.svg)](https://github.com/koajs/bodyparser) [![koa-router](https://img.shields.io/badge/koa--router-12.0.0-brightgreen.svg)](https://github.com/koajs/router) [![koa2-cors](https://img.shields.io/badge/koa2--cors-2.0.6-brightgreen.svg)](https://github.com/zadzbw/koa2-cors) [![reflect-metadata](https://img.shields.io/badge/reflect--metadata-0.1.13-brightgreen.svg)](https://github.com/microsoft/reflect-metadata) [![sqlite3](https://img.shields.io/badge/sqlite3-5.1.4-brightgreen.svg)](https://sqlite.org/) [![typeorm](https://img.shields.io/badge/typeorm-0.3.12-brightgreen.svg)](https://typeorm.io/)
+
+-   koa: v2
+-   koa-bodyparser: v4
+-   koa-router: v12
+-   koa2-cors: v2
+-   reflect-metadata: v0
+-   sqlite3: v5
+-   typeorm: v0
+
 ## 目录结构
 ```
 server/

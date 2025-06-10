@@ -4,7 +4,7 @@ import dayjs from "dayjs";
 
 import "@/tools/env";
 import App from "@/app";
-import cors from "koa-cors";
+import cors from "koa2-cors";
 import { project, host } from "@/config";
 import { AppDataSource } from "./data-source"
 import router from "./routes/content";
